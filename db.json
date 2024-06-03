@@ -1,0 +1,327 @@
+{
+  "users": [
+    {
+      "user": "admin",
+      "password": "password",
+      "id": "1"
+    },
+    {
+      "id": "8b92",
+      "user": "linh",
+      "password": "linh"
+    },
+    {
+      "user": "aa",
+      "password": "ppp",
+      "id": "rihBdpU"
+    },
+    {
+      "user": "",
+      "password": "",
+      "id": "mROxzNH"
+    },
+    {
+      "user": "",
+      "password": "",
+      "id": "8HRfhhO"
+    },
+    {
+      "user": "",
+      "password": "",
+      "id": "C_u7uM5"
+    },
+    {
+      "user": "username",
+      "password": "",
+      "id": "vovT5s4"
+    },
+    {
+      "user": "username",
+      "password": "pass",
+      "id": "R2-Le98"
+    },
+    {
+      "user": "linhh",
+      "password": "linh",
+      "id": "t-BT_sK"
+    },
+    {
+      "user": "linhhh",
+      "password": "d",
+      "id": "gzW84MZ"
+    },
+    {
+      "user": "1",
+      "password": "a",
+      "id": "pdmOic_"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "image": "https://i.imgur.com/RuObmie.jpeg",
+      "name": "Chiikawa USAGI plush",
+      "price": "30.00$",
+      "likes": 1
+    },
+    {
+      "id": "2",
+      "image": "https://i.imgur.com/Cfsj6X9.jpeg",
+      "name": "CHIIKAWA DX",
+      "price": "60.00$",
+      "likes": 0
+    },
+    {
+      "id": "3",
+      "image": "https://i.imgur.com/4b2o74g.jpeg",
+      "name": "CHIIKAWA figure set",
+      "price": "50.00$",
+      "likes": 1
+    },
+    {
+      "id": "4",
+      "image": "https://i.imgur.com/selerX5.jpeg",
+      "name": "POP TEAM EPIC figure",
+      "price": "55.00$",
+      "likes": 0
+    },
+    {
+      "id": "5",
+      "image": "https://i.imgur.com/EoFsEPV.jpeg",
+      "name": "Nagano x Sanrio POMPOMPURIN plush",
+      "price": "60.00$",
+      "likes": 1
+    },
+    {
+      "id": "6",
+      "image": "https://i.imgur.com/d8aAG2a.jpeg",
+      "name": "Nagano JOKE BEAR plush",
+      "price": "30.00$",
+      "likes": 0
+    },
+    {
+      "id": "7",
+      "image": "https://i.imgur.com/igXy8cJ.jpeg",
+      "name": "Nagano MOGURA CROQUETTE plush",
+      "price": "15.00$",
+      "likes": 0
+    },
+    {
+      "id": "8",
+      "image": "https://i.imgur.com/tIGv35h.jpeg",
+      "name": "TAIKO NO TATSUJIN nendoroid",
+      "price": "50.00$",
+      "likes": 0
+    },
+    {
+      "id": "9",
+      "image": "https://i.imgur.com/E5jcv0G.png",
+      "name": "FERG plush set",
+      "price": "40.00$",
+      "likes": 0
+    },
+    {
+      "id": "10",
+      "image": "https://i.imgur.com/8dW5Afu.jpeg",
+      "name": "OSHUSHI keychain set",
+      "price": "40.00$",
+      "likes": 0
+    },
+    {
+      "id": "11",
+      "image": "https://i.imgur.com/fQvGu5c.jpeg",
+      "name": "THE BATTLE CATS keychain",
+      "price": "7.00$",
+      "likes": 0
+    },
+    {
+      "id": "12",
+      "image": "https://i.imgur.com/AXXucL3.jpeg",
+      "name": "Nagano JOKE BEAR glove",
+      "price": "12.00$",
+      "likes": 0
+    },
+    {
+      "id": "13",
+      "image": "https://i.imgur.com/g3IpoaR.jpeg",
+      "name": "CHIIKAWA sticker",
+      "price": "3.00$",
+      "likes": 0
+    },
+    {
+      "id": "14",
+      "image": "https://i.imgur.com/K5mB76E.jpeg",
+      "name": "CHIIKAWA sticker",
+      "price": "3.00$",
+      "likes": 0
+    },
+    {
+      "id": "15",
+      "image": "https://i.imgur.com/y5xfoYM.png",
+      "name": "CHIIKAWA instax camera",
+      "price": "100.00$",
+      "likes": 0
+    },
+    {
+      "id": "16",
+      "image": "https://i.imgur.com/JaOmmxh.jpeg",
+      "name": "CHIIKAWA figure set",
+      "price": "40.00$",
+      "likes": 0
+    },
+    {
+      "id": "17",
+      "image": "https://i.imgur.com/fajwoV0.jpeg",
+      "name": "EVERYDAY KIWI figure set",
+      "price": "40.00$",
+      "likes": 0
+    },
+    {
+      "id": "18",
+      "image": "https://i.imgur.com/SzRVN1X.jpeg",
+      "name": "Nagano JOKE BEAR sticker",
+      "price": "5.00$",
+      "likes": 0
+    },
+    {
+      "id": "19",
+      "image": "https://i.imgur.com/iXc4TGC.jpeg",
+      "name": "THE BATTLE CATS plush set",
+      "price": "45.00$",
+      "likes": 0
+    },
+    {
+      "id": "20",
+      "image": "https://i.imgur.com/tJLoy7B.jpeg",
+      "name": "CHIIKAWA figure",
+      "price": "15.00$",
+      "likes": 0
+    },
+    {
+      "id": "21",
+      "image": "https://i.imgur.com/incW65m.jpeg",
+      "name": "CHIIKAWA figure",
+      "price": "15.00$",
+      "likes": 0
+    },
+    {
+      "id": "22",
+      "image": "https://i.imgur.com/HrEqm5Q.png",
+      "name": "CHIIKAWA keychain",
+      "price": "10.00$",
+      "likes": 0
+    },
+    {
+      "id": "23",
+      "image": "https://i.imgur.com/0rCmPOf.jpeg",
+      "name": "KARAMERU figure set",
+      "price": "35.00$",
+      "likes": 0
+    },
+    {
+      "id": "24",
+      "image": "https://i.imgur.com/4dx9HX5.jpeg",
+      "name": "NAGANO X CHIIKAWA figure set",
+      "price": "65.00$",
+      "likes": 0
+    },
+    {
+      "id": "25",
+      "image": "https://i.imgur.com/bAyIc32.jpeg",
+      "name": "Nagano MOGURA CROQUETTE plush",
+      "price": "15.00$",
+      "likes": 0
+    },
+    {
+      "id": "26",
+      "image": "https://i.imgur.com/7qqY34V.jpeg",
+      "name": "Chiikawa USAGI plush keychain",
+      "price": "20.00$",
+      "likes": 0
+    },
+    {
+      "id": "27",
+      "image": "https://i.imgur.com/jylhFc7.png",
+      "name": "Pokemon DITTO plush",
+      "price": "15.00$",
+      "likes": 0
+    },
+    {
+      "id": "28",
+      "image": "https://i.imgur.com/L1Y4Yfg.jpeg",
+      "name": "Nagano MOGURA CROQUETTE plush keychain",
+      "price": "20.00$",
+      "likes": 0
+    },
+    {
+      "id": "29",
+      "image": "https://i.imgur.com/GfvGSha.jpeg",
+      "name": "Nagano GYONISO plush",
+      "price": "15.00$",
+      "likes": 0
+    },
+    {
+      "id": "30",
+      "image": "https://i.imgur.com/TEovSv5.jpeg",
+      "name": "Nagano UNICORN plush keychain",
+      "price": "20.00$",
+      "likes": 0
+    },
+    {
+      "id": "31",
+      "image": "https://i.imgur.com/WXjd1Ym.png",
+      "name": "KARAMERU sticker",
+      "price": "5.00$",
+      "likes": 0
+    },
+    {
+      "id": "32",
+      "image": "https://i.imgur.com/BtwryLu.png",
+      "name": "PUSHEEN plush",
+      "price": "35.00$",
+      "likes": 0
+    }
+  ],
+  "wishitem": [
+    {
+      "name": "1",
+      "price": 4,
+      "id": 1
+    },
+    {
+      "name": "3",
+      "price": 4,
+      "id": 2
+    },
+    {
+      "name": "33",
+      "price": 33,
+      "id": 3
+    },
+    {
+      "name": "33",
+      "price": 33,
+      "id": 4
+    },
+    {
+      "name": "33",
+      "price": 33,
+      "id": 5
+    },
+    {
+      "name": "33",
+      "price": 33,
+      "id": 6
+    }
+  ],
+  "cartitem": [
+    {
+      "productId": "1",
+      "name": "Chiikawa USAGI plush",
+      "image": "https://i.imgur.com/RuObmie.jpeg",
+      "price": "30.00$",
+      "quantity": 5,
+      "id": 1
+    }
+  ]
+}
